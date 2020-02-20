@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #18d26e;
+  background: #d24cbc;
   color: #fff;
   display: inline-block;
   width: 44px;
@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top i {
   padding-top: 12px;
-  color: #fff;
+  color: #0a0b09;
 }
 
 @media (max-width: 768px) {
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
 #header #logo h1 a, #header #logo h1 a:hover {
   color: #fff;
   padding-left: 10px;
-  border-left: 4px solid #18d26e;
+  border-left: 4px solid #161fd2;
 }
 
 #header #logo img {
